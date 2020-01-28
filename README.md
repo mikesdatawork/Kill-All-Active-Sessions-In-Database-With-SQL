@@ -5,7 +5,7 @@
 
 ## Contents    
 - [About Process](##About-Process)  
-- [SQL Logic](#Logic)  
+- [SQL Logic](#SQL-Logic)  
 - [Build Info](#Build-Info)  
 - [Author](#Author)  
 - [License](#License)       
@@ -14,7 +14,7 @@
 
 I usually write this ahead of any database restores I might want to run.
 ---
-## Logic
+## SQL-Logic
 ```SQL
 use master;
 set nocount on
