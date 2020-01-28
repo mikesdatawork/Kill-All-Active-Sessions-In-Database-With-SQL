@@ -1,8 +1,13 @@
 ![Mikes Data Work](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_02.png "Mikes Data Work")
 
 
-![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png “Mikes Data Work”)    # Kill All Active Sessions In Database
-** Post Date: April 9, 2014  **  ![#](images/##############?raw=true “#”)    ## Contents    - [About Process](##About-Process)  - [SQL Logic](#Logic)  - [Build Info](#Build-Info)  - [Author](#Author)  - [License](#License)       ## About-Process  
+![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png “Mikes Data Work”)    
+# Kill All Active Sessions In Database
+** Post Date: April 9, 2014  **  ![#](images/##############?raw=true “#”)    
+
+## Contents    - [About Process](##About-Process)  - [SQL Logic](#Logic)  - [Build Info](#Build-Info)  - [Author](#Author)  - [License](#License)       
+
+## About-Process  
 I usually write this ahead of any database restores I might want to run.
 ---
 ## Logic
