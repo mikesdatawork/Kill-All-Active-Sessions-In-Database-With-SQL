@@ -1,7 +1,7 @@
 ![Mikes Data Work](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_02.png "Mikes Data Work")
 
 
-![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png “Mikes Data Work”)    
+![MIKES DATA WORK](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png “Mikes Data Work”)    
 # Kill All Active Sessions In Database
 ** Post Date: April 9, 2014  **  ![#](images/##############?raw=true “#”)    
 
