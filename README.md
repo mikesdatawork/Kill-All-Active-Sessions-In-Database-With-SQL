@@ -1,6 +1,7 @@
 ![MIKES DATA WORK](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")    
 # Kill All Active Sessions In Database With SQL
-** Post Date: April 9, 2014  **  ![#](images/##############?raw=true "#")    
+** Post Date: April 9, 2014 **  
+![#](images/##############?raw=true "#")    
 
 ## Contents    
 - [About Process](##About-Process)  
@@ -34,9 +35,9 @@ go
 
 ## Author
 
-- ** Github Gist**
-- ** Twitter**
-- ** Wordpress** "MikesDataWork"
+- ** Github Gist **
+- ** Twitter **
+- ** Wordpress ** "MikesDataWork"
 
 [![Gist](https://img.shields.io/badge/Gist-MikesDataWork-<COLOR>.svg)](https://gist.github.com/mikesdatawork)
 [![Twitter](https://img.shields.io/badge/Twitter-MikesDataWork-<COLOR>.svg)](https://twitter.com/mikesdatawork)
