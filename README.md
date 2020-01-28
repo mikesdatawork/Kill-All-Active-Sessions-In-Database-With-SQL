@@ -12,7 +12,8 @@
 
 ## About-Process 
 
-I usually write this ahead of any database restores I might want to run.
+  I usually write this ahead of any database restores I might want to run.
+
 ---
 ## SQL-Logic
 ```SQL
@@ -36,9 +37,9 @@ go
 
 ## Author
 
-- ** Github Gist **
-- ** Twitter **
-- ** Wordpress ** "MikesDataWork"
+- **Github Gist**
+- **Twitter**
+- **Wordpress** "MikesDataWork"
 
 [![Gist](https://img.shields.io/badge/Gist-MikesDataWork-<COLOR>.svg)](https://gist.github.com/mikesdatawork)
 [![Twitter](https://img.shields.io/badge/Twitter-MikesDataWork-<COLOR>.svg)](https://twitter.com/mikesdatawork)
