@@ -1,6 +1,6 @@
 ![MIKES DATA WORK](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")    
 # Kill All Active Sessions In Database With SQL
-**Post Date: April 9, 2014 **  
+**Post Date: April 9, 2014**  
 ![#](images/##############?raw=true "#")    
 
 ## Contents    
